@@ -1,0 +1,4 @@
+rezultati = [('hlapić', 15), ('gita', 12), ('majstor', 10)]
+tablica = [['Riječ', 'Frekvencija']]
+
+print(rezultati[1])
